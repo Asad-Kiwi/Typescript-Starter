@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>919138482667-ac64aneqjcp23i65lchj6o2k1qifo3cp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.919138482667-ac64aneqjcp23i65lchj6o2k1qifo3cp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAaFveg91Xtw3Ydy8O21pHeByt0K3pdbB0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>919138482667</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Momentz</string>
+	<key>PROJECT_ID</key>
+	<string>momentz-7512a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>momentz-7512a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:919138482667:ios:521558eeb789afb949c1ae</string>
+</dict>
+</plist>

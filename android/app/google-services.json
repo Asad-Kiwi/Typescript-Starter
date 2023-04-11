@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "919138482667",
+    "project_id": "momentz-7512a",
+    "storage_bucket": "momentz-7512a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919138482667:android:eb2a47829db407ff49c1ae",
+        "android_client_info": {
+          "package_name": "com.momentz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919138482667-k6plud8ipjcctm9akv8pi2a51r310vmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOsqqN4S5YlorleG582JdRdo5ebeGqCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919138482667-k6plud8ipjcctm9akv8pi2a51r310vmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919138482667-ac64aneqjcp23i65lchj6o2k1qifo3cp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Momentz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
